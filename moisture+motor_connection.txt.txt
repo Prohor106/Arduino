@@ -1,0 +1,25 @@
+relay:
+
+com1 - 5v(bread)
+
+vcc - vcc
+gnd - gnd 
+d2 - in
+
+
+
+motor:
+
+pos - no1(relay)
+neg - gnd(bread)
+
+
+
+moisture:
+vcc - 5v
+gnd - gnd
+//do - ~6
+a0 - a0
+
+
+https://www.youtube.com/watch?v=7KdhL_gAqHQ

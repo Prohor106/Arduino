@@ -1,0 +1,28 @@
+
+buzz
+
+- - gnd
++ - d3
+
+LED
+
+- - resi - gnd
++ - 5, 6
+
+LCD
+
+gnd - gnd
+vcc - 5v
+sda - a4
+scl - a5
+
+flame 
+out - A2
+vcc - 5v
+gnd - gnd
+
+temp
+
+vcc - vcc
+gnd - gnd
+digi - d11
